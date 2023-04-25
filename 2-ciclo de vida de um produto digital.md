@@ -38,16 +38,85 @@ Então de forma mais prática o que é que um gestor de produto precisa se atent
 
 # Ciclo de vida de um produto Digital
 
-Na fase de Introdução de um produto é quando de fato ele está sendo lançado para o mercado.  Antes disso ele era basicamente uma concepção
+## Introdução
+
+Na fase de Introdução de um produto é quando de fato ele está sendo lançado para o mercado,  era basicamente uma concepção/construção.
+Mas ele ainda não estava de fato no mercado, ele não estava gerando valor ainda e a introdução é quando ele vai para o mercado ser experimentado.
+![image](https://user-images.githubusercontent.com/52088444/234373630-71f01f7d-cc4c-412b-b2fa-b69c81bc4302.png)
+
+Essa é uma fase que realmente você vai ver se o produto que você desenvolveu está resolvendo o problema do usuário ou não, ele é um estágio de bastante incerteza, por que as validações que foram feitas na etapa anterior foram feitas com amostras reduzidas de usuários e pode acontecer uma falha na interpretação dos resultados na etapa do discovery, que é a etapa de desenvolvimento do produto, ali você fez algumas pesquisas com o usuário mas foi com uma amostra pequena.
+Em produtos digitais a gente fala bastante em fazer rápido e aprender rápido. Nessa fase de introdução isso é essencial você precisa aprender muito rápido falhar muito rápido e corrigir, muito rápido os erros que o seu produto apresenta.
 
 
-10. Introdução
-5m
-Reproduzir
-11. Crescimento
-5m
-Reproduzir
-12. Maturidade
-10m
-Reproduzir
-13. Declínio
+Então de forma mais prática é que um gestor de produto pode fazer nessa fase de introdução:
+
+![image](https://user-images.githubusercontent.com/52088444/234374970-0c5ac4a7-d6d4-4272-b51a-e325308dd9a3.png)
+
+**é essa a métrica do negócio pode ser que receita, pode se os usuários estão entrando dentro do seu produto, ele pode ser uma métrica de engajamento enquanto os usuários estão dentro daquele produto e estão utilizando aquele produto. Então essa medida do negócio precisa estar bem definida e você precisa acompanhar essa métrica para ver se ela de fato está melhorando ou não.
+
+##  Crescimento
+
+![image](https://user-images.githubusercontent.com/52088444/234375377-a7844f7c-6390-4181-ad07-be81d284a275.png)
+
+A terceira fase do ciclo de vida do produto digital é o crescimento, aqui é muito a busca por outra ação, é você conseguir escalar o produto e levá lo para o máximo de pessoas possíveis. Quando você conseguir vender ele terá o máximo de usuários que você conseguir.
+Quando você atinge essa etapa do crescimento então se fala que conseguiu atingir o Product Market Fit. 
+E o que seria O Product Market Fit quer dizer que o seu produto de fato resolve um problema de uma quantidade significativa de pessoas.
+Na etapa anterior você começa a validar um pouco isso, você tem alguns indícios de que ele pode resolver um problema real do seu usuário, mas você ainda não tem certeza do quanto, você pode resolver o problema de poucos usuários, mas não necessariamente isso vai ser suficiente para você conseguir manter esse produto de pé.
+
+Aqui no crescimento você atingiu a parcela significativa de pessoas. E que elas continuamente fiquem no seu produto, ou seja elas são as pessoas que consumam seu produto de uma forma contínua. Nessa fase também você começa a engordar um pouco as métricas de negócio, começa a ter um pouco mais de base saber se a receita que você vai ter com o produto e uma está sendo boa ou esperada se a quantidade de usuários que você previa lá atrás de obter você realmente está conseguindo atrair e capturar esses usuários. 
+
+**O que é um produto market fit? O Product Market Fit é utilizado para avaliar o desempenho de um produto dentro de um determinado mercado. A fidelidade do consumidor, a qualificação dos competidores e a capacidade de oferta de valor são algumas das variáveis inseridas nessa equação.
+
+![image](https://user-images.githubusercontent.com/52088444/234377682-e7e69fbf-1ab2-42c2-b6b6-c5c0cc8fcc8d.png)
+
+
+##  Maturidade
+
+![image](https://user-images.githubusercontent.com/52088444/234378610-7e112a71-fa4c-478a-8662-41490824f285.png)
+
+Na quarta fase do ciclo de vida de um produto digital é a maturidade, onde a gente tem a vaca leiteira, ou seja, o pico máximo de receita recorrente que seu produto tem, o máximo de base de clientes que o seu produto tem, e quando ele chega em umarstagnação, ele chega num platô de crescimento.
+
+A maturidade é uma fase em que atingiu um bom patamar, e agora não precisa de tantas interações para gerar receita, já gera uma receita recorrente muito boa. Lógico que você precisa sempre aprender sobre os seus usuários, sempre entendeu os comportamentos, as necessidades, mas Você não precisa ter tanta velocidade como na fase passada ou na etapa de introdução, pois aqui o publico alvo já está claro, você já sabe quem é usuário do seu produto, já sabe quem é o público alvo, sabe o problema que o seu produto resolve para a sua empresa.
+
+![image](https://user-images.githubusercontent.com/52088444/234380314-4fa7e8d6-bcfb-4563-ab6b-b1901ba99f44.png)
+
+Quando entra nos dois primeiros casos o seu produto ainda tem solução, é opapel do gestor de produto resolver.
+e se for para os outroas casos abaixo, é importante seguir as dicas abaixo:
+
+![image](https://user-images.githubusercontent.com/52088444/234381194-9f100d9f-2bb8-40fb-b906-8241135434b4.png)
+
+**O que é churn? Churn é uma métrica utilizada para mostrar o número de clientes que cancelam serviço em um determinado período de tempo. Ela é importante pois ajuda a medir a expansão da sua empresa, já que é preciso que o número de novos negócios exceda esse indicador.
+
+## Declínio
+
+![image](https://user-images.githubusercontent.com/52088444/234381538-6aa7451d-ac82-4a7d-bdb4-5ab533d51069.png)
+
+A quinta e última fase do ciclo de vida de um produto, que é onde ele entra em substituição, ou seja o seu produto ou a sua solução ela vai ser substituída por alguma outra coisa que seja uma solução melhor seja a nova tecnologia seja um modelo de negócio novo.
+
+Nessa fase de declínio grandes decisões precisam ser tomadas, muitas vezes você precisa entender que ele está em declínio e procurar outras fontes de receita para substituir essa que naturalmente vai cair.
+
+Dicas práticas para um gestor de produto:
+
+
+![image](https://user-images.githubusercontent.com/52088444/234382535-c1350b6d-80dc-41e9-b088-13e637f26a86.png)
+
+**Market share ou participação/quota de mercado, em tradução livre, é a porcentagem de vendas pela qual uma empresa é responsável dentro do seu nicho. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
