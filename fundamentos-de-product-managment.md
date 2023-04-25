@@ -3,6 +3,7 @@
 ##  Diferença entre projeto e produto
 
 - Projeto: 
+
 ![image](https://user-images.githubusercontent.com/52088444/234339304-773c80f9-2354-4d3b-be71-9f5ab3ce2aee.png)
 
 Esse esforço temporário significa que o projeto tem começo meio e fim bem definido então antes de começar o projeto você já tem uma data de quando ele vai terminar.
@@ -21,9 +22,16 @@ Então um gerente de projeto tem que se concentrar em entregar o que foi planeja
 
 
 - Produto
+
 ![image](https://user-images.githubusercontent.com/52088444/234340826-088b8bf4-09bf-4060-81e8-71c2a0e5efb1.png)
 
-    - Criar Valor: Nesse caso seria o uso do produto.
+    - Criar Valor: Nesse caso seria o uso do produto. Um produto cria valor para quem está utilizando aquela solução.
+
+Então por exemplo: Um projeto tem um escopo o tempo e o custo e como gerente de projeto ele está preocupado em entregar a ponte, com um escopo planejado o tempo definido é o custo que foi orçado. Um gerente de produto ele está olhando um pouco diferente, ele observa se as pessoas que vão utilizar aquela ponte, quem vai utilizar aquela ponte, se de fato precisa construir uma ponte, porque criar valor neste caso seria leva a pessoa a atravessar o rio, e você pode atravessar o rio através de uma ponte, através de uma balsa, através de um túnel através de um barquinho. Ele vai fazer como aquelas pessoas saiam do ponto A até o ponto B Independente de como elas fazem isso. o GERENTE DE PRODUTO ESTÁ MAIS PREOCUPADO EM COMO CRIAR VALOR PARA AQUELAS PESSOAS 
+
+
+
+
 
 
 
