@@ -28,4 +28,7 @@ O que é a técnica INVEST?
 O princípio INVEST é um framework que pode te ajudar a escrever User Stories melhores, focando ainda mais na entrega de valor ao usuário. Como pessoa de Produto (Product Manager, Product Owner, APM, analista, etc.)
 
 
+## critérios de Aceite
+
+![image](https://user-images.githubusercontent.com/52088444/234600754-5048f9a5-f974-4be4-add5-4d082e4fe19f.png)
 
