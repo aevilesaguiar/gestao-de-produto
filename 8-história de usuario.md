@@ -32,3 +32,6 @@ O princípio INVEST é um framework que pode te ajudar a escrever User Stories m
 
 ![image](https://user-images.githubusercontent.com/52088444/234600754-5048f9a5-f974-4be4-add5-4d082e4fe19f.png)
 
+![image](https://user-images.githubusercontent.com/52088444/234615848-9c07c2c2-6926-4112-af2d-ea89c40cfb1e.png)
+
+
