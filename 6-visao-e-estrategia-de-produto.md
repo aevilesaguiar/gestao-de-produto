@@ -132,6 +132,29 @@ Quatro elementos básicos da estratégia de produto, temos diversas, mas será f
 
 ![image](https://user-images.githubusercontent.com/52088444/234573729-720129b4-dd4d-445c-af00-f50951d93186.png)
 
+![image](https://user-images.githubusercontent.com/52088444/234574147-3b6fd594-3d90-4a2b-a42d-15a21f559bd0.png)
+
+## Como funciona a estratégia do Produto
+
+Exemplo: Uber
+
+![image](https://user-images.githubusercontent.com/52088444/234574804-ec251717-2fc2-4bd4-911b-03cee037e897.png)
+
+![image](https://user-images.githubusercontent.com/52088444/234574911-13f99ce3-f785-48c3-8c41-8a70e43664b6.png)
+**aqui você pode fazer pesquisar para entender por que em alguns lugares o Uber ainda não é opção de transporte  para algumas pessoas.Entender se está demorando muito, busco outros concorrentes, se isso é um problema, iremos pegar isso como um objetivo.
+
+![image](https://user-images.githubusercontent.com/52088444/234575332-9a63c4b5-fc7b-41f6-b1fb-808baeb0f4a2.png)
+**através das pesquisas foi descoberto que não tem carro o suficiente para as pessoas, poucos motoristas. A próxima meta é embarcar um motorista para para cada 50 passageiros
+
+![image](https://user-images.githubusercontent.com/52088444/234575615-15ce595d-2e29-4d65-b651-2979daf971a8.png)
+**isso vai reduzir meu tempo de espera, e mais pessoas possam procurar o uber
+
+Canvas de desdobramento :
+
+![image](https://user-images.githubusercontent.com/52088444/234575828-a87bb983-b9c5-4ffa-856c-d089bc2c9e5e.png)
+
+
+
 
 
 
