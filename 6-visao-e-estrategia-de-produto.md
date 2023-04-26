@@ -37,5 +37,34 @@ O produto pode chegar em vários estados da visão, e definir de quanto em quant
 
 ![image](https://user-images.githubusercontent.com/52088444/234563228-741cac8c-7b7a-4649-a07e-02dc23e75b9c.png)
 
+A visão representa "o porque", a estrtégia representa "Como?", e o produto(roadmap) representa "o que".
+
+
+## Exemplos de Visão
+
+![image](https://user-images.githubusercontent.com/52088444/234565154-d65b8c0d-00e5-41a6-89a7-d1c945af6f55.png)
+
+![image](https://user-images.githubusercontent.com/52088444/234565394-4e77ac88-6287-4d3e-b36f-7c9c63d60772.png)
+
+- Yammer é uma rede social da microsoft que ela vende para empresa, é um produto da microsoft.
+- Kindle é um produto da Amazon, se o kindle atingir a sua visão a amazon ficará mais perto de atingir a sua visão
+
+Empresas que são o seu produto
+
+![image](https://user-images.githubusercontent.com/52088444/234565837-1dba6aba-8054-4ab6-88c5-f892dbbb7e58.png)
+
+- Amplitude concorrente do google analitcs
+
+Visão é algo macro e depois você precisa desdobrar essa visão, precisa entender de fato o que é essa visão e transformar ela em acionáveis. Então que KPI'S , que métricas eu preciso atingir para que essa visão se sustente.
+
+
+
+
+
+
+
+
+
+
 
 
