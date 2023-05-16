@@ -52,3 +52,7 @@ Observe que é sempre uma boa ideia pagar a dívida em intervalos regulares, ou 
 Priorize o valor de longo prazo em detrimento de novos recursos brilhantes que trazem benefícios de curto prazo. Certifique-se de que a ordem dos itens do Backlog reflita essa abordagem e não faça “contabilidade paralela” do Scrum. Alinhar a visão do produto com as realidades do dia-a-dia conciliar padrão de qualidade com a Definição de Pronto. 
 
 Por fim, adapte sua abordagem rapidamente sempre que insights práticos exigirem tal coisa. Nunca ceda à tentação de seguir a linha de menor resistência. Faz mais mal do que bem, à medida que você afunda mais na armadilha da dívida. 
+
+## Referencias
+
+- https://www.vivifyscrum.com/insights/technical-debt-product-owner
